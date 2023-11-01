@@ -13,7 +13,7 @@ class Averagearray
 		System.out.println();
 		
 		avg=sum/6 ;
-		System.out.println(avg);
+		System.out.println("Avg od array"+avg);
 		
 	}	
 }

@@ -12,7 +12,7 @@ class FindVowels
 		  	
 		
 		}
-		System.out.print("count vowels = "+count);
+		System.out.print("count Total vowels = "+count);
 		
 	}
 
